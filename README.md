@@ -1,7 +1,7 @@
 AI-chatbot 
 # 🤖 Sara - AI Chatbot
 
-Need a AI-powered chatbot made usin simple html/javascript for handling customers with ease for repetitive questions/tasks only   
+Need a AI-powered chatbot made using simple html/javascript for handling customers with ease for repetitive questions/tasks only   
 Example use case:- A smart AI-powered chatbot for banks to verify users based on account balance & dormancy. 
 
 💰 **Buy Full Version**  
